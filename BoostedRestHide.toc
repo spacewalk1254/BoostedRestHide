@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Boosted Rest Hide
+## Notes: Hides Boosted Rest from the default debuff bar. Use /rest to check the remaining time.
+## Author: Spacewalk
+## Version: 1.0.0
+
+BoostedRestHide.lua
